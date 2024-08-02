@@ -3,8 +3,9 @@ main:
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   
-  - title: "About me"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "About"    
+    url: https://www.dropbox.com/scl/fi/nw5vcemmkfoj818v6wmu6/CV_DLee_fake.pdf?rlkey=2pbfi9x5p539wiok6mrmd5uec&dl=0
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
     
   # - title: "CV"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
