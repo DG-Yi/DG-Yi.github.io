@@ -4,7 +4,8 @@ main:
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   
   - title: "About"    
-    url: https://dongkyu-lee.com/
+    url: /pages/terms.md
+  #  url: https://dongkyu-lee.com/
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
     
   - title: "CV"
