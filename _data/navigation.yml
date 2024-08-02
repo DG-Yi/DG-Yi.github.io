@@ -7,8 +7,8 @@ main:
     url: https://dongkyu-lee.com/
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
     
-  # - title: "CV"
-  #  url: https://www.dropbox.com/scl/fi/nw5vcemmkfoj818v6wmu6/CV_DLee_fake.pdf?rlkey=2pbfi9x5p539wiok6mrmd5uec&dl=0
+  - title: "CV"
+    url: https://www.dropbox.com/scl/fi/nw5vcemmkfoj818v6wmu6/CV_DLee_fake.pdf?rlkey=2pbfi9x5p539wiok6mrmd5uec&dl=0
   #   url: Dropbox link
     
   # - title: "Sample Posts"
